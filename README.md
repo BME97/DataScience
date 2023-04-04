@@ -6,7 +6,7 @@
 
 🤝 
 
-👨‍💻 All of my data science projects are available at https://github.com//Data-Science
+👨‍💻 All of my data science projects are available at https://github.com/BME97/Data-Science
 
 💬 Ask me about anything data-science related, and I'll be happy to help you out. I love talking about this!
 
