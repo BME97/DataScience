@@ -1,0 +1,18 @@
+import dd_content
+import datetime
+
+class DailyEmail:
+    def __init__(self):
+        self.content = {'quote':{'include':True, 'content': dd_content.get_random_quote()},
+                        'weather':{'include':True, 'content': dd_content.get_weather_forecast()},
+                        'twitter': {'include':True, 'content': dd_content.get_twitter_trends()},
+                        'wikipedia': {'include': True, 'content': dd_content.get_wikipedia_article()}
+    def send_email(self):
+                        pass
+    """
+    Generate email message body as Plaintext and HTML
+    """
+                        
+    def format_message(self):
+        #Generate plain text
+        text = f'
