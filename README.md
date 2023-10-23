@@ -1,6 +1,6 @@
 🔭 I’m currently working on building up my GitHub profile with data science projects.
 
-🌱 I’m currently self teaching how to code and learning to apply the basics of Data Science/Python/SQL within biomedical field
+🌱 Self teaching how to code and learning to apply the basics of Data Science/Python/SQL within biomedical field
 
 👯 I’m looking to collaborate on any of the presented data-science projects or open to other automation projects
 
